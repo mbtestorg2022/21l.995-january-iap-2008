@@ -30,25 +30,174 @@ Grading
 
 The final grade is based on a total of 24 points. The breakdown of points is as follows:
 
-| REQUIREMENTS | POINTS |
-| --- | --- |
-| Attendance | 6 |
-| Journals (three of the four assigned, totaling ~ 2400 words) | 9 |
-| Participation | 3 |
-| Excellent journals and participation | up to 6 or more 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journals (three of the four assigned, totaling ~ 2400 words)
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Excellent journals and participation
+{{< tdclose >}}
+{{< tdopen >}}
+up to 6 or more
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Please see [assignments]({{< baseurl >}}/pages/assignments) for more information on the journals.
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to reading Milton; book I | &nbsp; |
-| 2 | Books II-III | Journal due for all |
-| 3 | Book IV | Journal due for group A |
-| 4 | Books V-VI | Journal due for group B |
-| 5 | Book VII-VIII | Journal due for group A |
-| 6 | Book IX | Journal due for group B |
-| 7 | Books X-XI | Journal due for group A |
-| 8 | Book XII and conclusions | Journal due for group B
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to reading Milton; book I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Books II-III
+{{< tdclose >}}
+{{< tdopen >}}
+Journal due for all
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Book IV
+{{< tdclose >}}
+{{< tdopen >}}
+Journal due for group A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Books V-VI
+{{< tdclose >}}
+{{< tdopen >}}
+Journal due for group B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Book VII-VIII
+{{< tdclose >}}
+{{< tdopen >}}
+Journal due for group A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Book IX
+{{< tdclose >}}
+{{< tdopen >}}
+Journal due for group B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Books X-XI
+{{< tdclose >}}
+{{< tdopen >}}
+Journal due for group A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Book XII and conclusions
+{{< tdclose >}}
+{{< tdopen >}}
+Journal due for group B
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
